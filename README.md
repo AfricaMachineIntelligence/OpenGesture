@@ -26,7 +26,7 @@ The software provided here works with the currently available OpenCV AI Kit: OAK
 # Data Collection
 
 To train the OpenGesture Model data was collected using Intel RealSense D435.
-## Defining Data as Hand Gestures.
+Defining Data as Hand Gestures.
 Depth                 |  Color
 :-------------------------:|:-------------------------:
 ![](https://github.com/AfricaMachineIntelligence/OpenGesture/blob/main/Assets/11_Depth_adobespark%20(1).png)  |  ![](https://github.com/AfricaMachineIntelligence/OpenGesture/blob/main/Assets/11a_Color_adobespark_adobespark.png)
