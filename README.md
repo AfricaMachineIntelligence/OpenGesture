@@ -26,6 +26,8 @@ The software provided here works with the currently available OpenCV AI Kit: OAK
 # Data Collection
 
 To train the OpenGesture Model data was collected using Intel RealSense D435.
+Download [OpenGesture Depth and Color Dataset](https://github.com/AfricaMachineIntelligence/opengesture3d-data)<br>
+
 
 ## OpenGesture ML Model Training and Optimization Notebooks
 
