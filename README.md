@@ -2,7 +2,7 @@
 # OpenGesture for African Sign Language 
 Platform | Build Status |
 -------- | ------------ |
-OpenCV AI Kit | [![Build status](https://ci.appveyor.com/api/projects/status/swutsp1bjcc56q64/branch/master?svg=true)](https://ci.appveyor.com/project/ddiakopoulos/hand-tracking-samples/branch/master)
+OpenCV AI Kit | [![Build status](https://ci.appveyor.com/api/projects/status/swutsp1bjcc56q64/branch/master?svg=true)](https://github.com/AfricaMachineIntelligence/opengesture)
 Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AfricaMachineIntelligence/opengesture/blob/main/OpenGesture_OAK_D.ipynb)
 
 <p align="center">
