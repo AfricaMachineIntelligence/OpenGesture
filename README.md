@@ -15,7 +15,7 @@ The code in this repository is authored for computer-vision and machine-learning
 
 This project provides Python code to recognize African Sign Language gestures for numbers using OpenCV AI Kit: OAK—D depth cameras. Additionally, this project showcases the utility of convolutional neural networks as a key component of real-time gesture classification pipelines using Intel OpenVINO.
 
-The software provided here works with the currently available OpenCV AI Kit: OAK—D and Intel® RealSense™ D400 depth cameras supported by librealsense2.
+The software provided here works with the currently available OpenCV AI Kit: OAK—D and Intel® RealSense™ D400 depth cameras.
 
 ## Environment Setup
 * Install [DepthAI](https://github.com/luxonis/depthai)<br>
