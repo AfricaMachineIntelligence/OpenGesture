@@ -11,7 +11,7 @@ Google Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-
 
 ## Audience
 
-The code in this repository is authored for computer-vision and machine-learning students and researchers interested in developing hand gesture applications using OpenCV AI Kit: OAK—D depth cameras.
+The code in this repository is authored for computer-vision and machine-learning developers and researchers interested in developing hand gesture applications using OpenCV AI Kit: OAK—D depth cameras.
 
 This project provides Python code to recognize African Sign Language gestures for numbers using OpenCV AI Kit: OAK—D depth cameras. Additionally, this project showcases the utility of convolutional neural networks as a key component of real-time gesture classification pipelines using Intel OpenVINO.
 
