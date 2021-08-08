@@ -29,7 +29,7 @@ To train the OpenGesture Model data was collected using Intel RealSense D435.
 ## 2. Defining hand gestures.
 Depth                 |  Color
 :-------------------------:|:-------------------------:
-![](https://github.com/AfricaMachineIntelligence/OpenGesture/blob/main/Assets/11_Depth_adobespark%20(1).png)  |  ![](Assets/11a_Color_adobespark_adobespark.png)
+![](https://github.com/AfricaMachineIntelligence/OpenGesture/blob/main/Assets/11_Depth_adobespark%20(1).png)  |  ![](https://github.com/AfricaMachineIntelligence/OpenGesture/blob/main/Assets/11a_Color_adobespark_adobespark.png)
 
 
 Download [OpenGesture Depth and Color Dataset](https://github.com/AfricaMachineIntelligence/opengesture3d-data)<br>
