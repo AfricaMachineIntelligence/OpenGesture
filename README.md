@@ -37,8 +37,9 @@ Download [OpenGesture Depth and Color Dataset](https://github.com/AfricaMachineI
 
 ## OpenGesture ML Model Training and Optimization Notebooks
 
-* [OpenGesture African Sign Language Detection](OpenGesture_OAK_D.ipynb) - This notebook includes all the necessary scripts required to retrain the gesture.blob using TensorFlow Hub for transfer learning. Furthermore the notebook includes Intel OpenVINO Toolkit's model optimzer and inference engine plugins implementation code to create a blob compatible with OpenCV AI Kit: OAK-D.
+* [TF Hub Transfer Learning: OpenGesture ASL](OpenGesture_OAK_D.ipynb) - This notebook includes all the necessary scripts required to retrain the gesture.blob using TensorFlow Hub for transfer learning. Furthermore the notebook includes Intel OpenVINO Toolkit's model optimzer and inference engine plugins implementation code to create a blob compatible with OpenCV AI Kit: OAK-D.
 
+* [Image Classification Custom Model: OpenGesture ASL](OpenVINO_+_OpenCV_OAK_Tensorflow_Gesture_Classification.ipynb) - This notebook includes all the necessary scripts required to train a custom classifier the gesture.blob using TensorFlow and Keras for and also includes Intel OpenVINO Toolkit's model optimzer and inference engine plugins implementation code to create a blob compatible with OpenCV AI Kit: OAK-D.
 
 ## Running the OpenGesture for South African Sign Language 
 * Preparation
