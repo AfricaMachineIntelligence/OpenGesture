@@ -3,7 +3,7 @@
 Platform | Build Status |
 -------- | ------------ |
 OpenCV AI Kit | [![Build status](https://ci.appveyor.com/api/projects/status/swutsp1bjcc56q64/branch/master?svg=true)](https://ci.appveyor.com/project/ddiakopoulos/hand-tracking-samples/branch/master)
-Codelab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AfricaMachineIntelligence/opengesture/blob/main/OpenGesture_OAK_D.ipynb]
+Codelab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AfricaMachineIntelligence/opengesture/blob/main/OpenGesture_OAK_D.ipynb)
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/TebogoNakampe/XRDrive-Sim/blob/master/Code/hand.gif">
