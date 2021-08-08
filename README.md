@@ -19,9 +19,8 @@ The software provided here works with the currently available OpenCV AI Kit: OAK
 ## Environment Setup
 * Install [DepthAI](https://github.com/luxonis/depthai)<br>
 * Install [OpenVINO™ Toolkit](https://software.intel.com/en-us/openvino-toolkit) <br>
+* Install [Ubuntu 18.04 LTS ](https://ubuntu.com/download/desktop)<br>
 * Purchase a DepthAI Camera (see [shop.luxonis.com](https://shop.luxonis.com/))
-* Ubuntu 18.04 LTS
-* Install requirements
 
 # Data Collection
 
@@ -29,20 +28,20 @@ To train the OpenGesture Model data was collected using Intel RealSense D435.
 
 ## OpenGesture ML Model Training and Optimization Notebooks
 
-* [OpenGesture African Sign Language Detection](OpenGesture_OAK_D.ipynb) - This notebook includes all the necessary scripts required to retrain the gesture.blob using TensorFlow Hub for transfer learning. Furthermore the notebook includes Intel OpenVINO Toolkit's model optimzer and inference engine plugins to create a blob compatible with OpenCV AI Kit: OAK-D.
+* [OpenGesture African Sign Language Detection](OpenGesture_OAK_D.ipynb) - This notebook includes all the necessary scripts required to retrain the gesture.blob using TensorFlow Hub for transfer learning. Furthermore the notebook includes Intel OpenVINO Toolkit's model optimzer and inference engine plugins implementation code to create a blob compatible with OpenCV AI Kit: OAK-D.
 
 
 ## Running the OpenGesture for South African Sign Language 
 * Preparation
 	* Install Requirements
 		```bash
+		git clone https://github.com/AfricaMachineIntelligence/opengesture.git
+		cd opengesture
 		python3 -m pip install -r requirements.txt
 		```
 		
 		
 #### How to run 
-
-## Usage
 
 ```
 usage: main.py [-h] [-nd] [-cam] [-vid VIDEO]
