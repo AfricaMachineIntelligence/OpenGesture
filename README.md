@@ -26,10 +26,25 @@ The software provided here works with the currently available OpenCV AI Kit: OAK
 # Data Collection
 
 To train the OpenGesture Model data was collected using Intel RealSense D435.
+
 #### Defining Data as Hand Gestures.
 Depth                 |  Color
 :-------------------------:|:-------------------------:
 ![](https://github.com/AfricaMachineIntelligence/OpenGesture/blob/main/Assets/11_Depth_adobespark%20(1).png)  |  ![](https://github.com/AfricaMachineIntelligence/OpenGesture/blob/main/Assets/11a_Color_adobespark_adobespark.png)
+
+#### African Languages Labels
+
+| ENGLISH      | SETSWANA       | ZULU               | XHOSA         |
+| :---         |     :---:      |      :---:         |          ---: |
+| One          | Nngwe          | Kunye              | Inye          |
+| Two          | Pedi           | Kubili             | Zimbini       |
+| Three        | Tharo          | Kuthathu           | Zintathu      |
+| Four         | Nne            | Kune               | Zine          |
+| Five         | Tlhano         | Kuhlanu            | Zintlanu      |
+| Six          | Thataro        | Isithupha          | Zintandathu   |
+| Seven        | Supa           | Isikhombisa        | Isixhenxe     |
+| Eight        | Robedi         | Isishiyagalombili  | Sisibhozo     |
+| Nine         | Robongwe       | Isishiyagalolunye  | Lithoba       |
 
 
 Download [OpenGesture Depth and Color Dataset](https://github.com/AfricaMachineIntelligence/opengesture3d-data)<br>
