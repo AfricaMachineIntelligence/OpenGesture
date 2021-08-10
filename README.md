@@ -35,7 +35,7 @@ Depth                 |  Color
 #### African Languages Labels
 
 | ENGLISH      | SETSWANA       | ZULU               | XHOSA         |
-| :---         |     :---:      |      :---:         |          ---: |
+| :---         |     :---:      |      :---:         |     :---:     |
 | One          | Nngwe          | Kunye              | Inye          |
 | Two          | Pedi           | Kubili             | Zimbini       |
 | Three        | Tharo          | Kuthathu           | Zintathu      |
